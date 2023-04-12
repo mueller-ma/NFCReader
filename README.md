@@ -24,11 +24,9 @@ From my point of view this app is feature complete. I probably won't add new maj
 * Fix bugs
 * Review and merge PRs, even for new features
 
-<!-- ## Translations
+## Translations
 
-App strings and the app store description can be translated via Crowdin: https://crowdin.com/project/
-
--->
+App strings and the app store description can be translated via Crowdin: https://crowdin.com/project/nfc-reader
 
 <!-- ## Credits
 
