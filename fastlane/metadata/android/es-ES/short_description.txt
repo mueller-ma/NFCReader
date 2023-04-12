@@ -1,1 +1,1 @@
-Read NFC tags
+Leer etiquetas NFC
