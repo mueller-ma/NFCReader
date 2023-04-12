@@ -1,1 +1,1 @@
-NFC Reader
+قارئ NFC
