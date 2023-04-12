@@ -1,3 +1,3 @@
-This is a simple app to read various tags (NDEF, RFID, FeliCa, ISO 14443, etc).
+Tämä on yksinkertainen sovellus lukea eri tunnisteita (NDEF, RFID, FeliCa, ISO 14443 jne.).
 
-It has been forked from <a href="https://f-droid.org/de/packages/se.anyro.nfc_reader/">se.anyro.nfc_reader</a>.
+Se on forkattu <a href="https://f-droid.org/de/packages/se.anyro.nfc_reader/">se.anyro.nfc_reader</a>.
