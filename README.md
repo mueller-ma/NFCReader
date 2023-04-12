@@ -2,7 +2,7 @@
 
 [![Build App](https://github.com/mueller-ma/NFCReader/actions/workflows/build.yml/badge.svg)](https://github.com/mueller-ma/NFCReader/actions/workflows/build.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/mueller-ma/nfcreader/badge)](https://www.codefactor.io/repository/github/mueller-ma/nfcreader)
-<!-- [![Crowdin](https://badges.crowdin.net/coffee-app/localized.svg)](https://crowdin.com/project/coffee-app) -->
+[![Crowdin](https://badges.crowdin.net/nfc-reader/localized.svg)](https://crowdin.com/project/nfc-reader)
 
 This is a simple app to read various tags (NDEF, RFID, FeliCa, ISO 14443, etc).
 
