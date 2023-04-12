@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translation instructions can be found in the Readme -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, ExtraTranslation">
+    <string name="app_name">NFC リーダー</string>
+    <string name="intro_message">これは、さまざまなタグ(NDEF、RFID、FeliCa、ISO 14443など)を読み取るためのシンプルなアプリです。\n\nあなたのデバイスの背面にタグ/カードを保持して使用します。</string>
+    <string name="no_nfc">このデバイスではNFCはサポートされていません</string>
+    <string name="clear_all">すべてクリア</string>
+    <string name="close_app">アプリを閉じる</string>
+</resources>

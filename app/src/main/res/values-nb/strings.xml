@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translation instructions can be found in the Readme -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, ExtraTranslation">
+    <string name="app_name">NFC leser</string>
+    <string name="intro_message">Dette er en enkel app for å lese ulike tagger (NDEF, RFID, FeliCa, ISO 14443, etc).\n\nDu bruker den ved å holde et tagg/kort mot baksiden av enheten.</string>
+    <string name="no_nfc">NFC støttes ikke på denne enheten</string>
+    <string name="clear_all">Fjern alle</string>
+    <string name="close_app">Lukk app</string>
+</resources>

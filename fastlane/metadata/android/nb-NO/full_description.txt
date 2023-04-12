@@ -1,0 +1,3 @@
+Dette er en enkel app for å lese ulike tagger (NDEF, RFID, FeliCa, ISO 14443, etc).
+
+Den har blitt smidd fra <a href="https://f-droid.org/de/packages/se.anyro.nfc_reader/">se.anyro.nfc_reader</a>.

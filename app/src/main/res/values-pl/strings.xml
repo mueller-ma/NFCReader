@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translation instructions can be found in the Readme -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, ExtraTranslation">
+    <string name="app_name">Czytnik NFC</string>
+    <string name="intro_message">Jest to prosta aplikacja do odczytu różnych tagów (NDEF, RFID, FeliCa, ISO 14443 itp.).\n\nUżywasz go, trzymając znacznik/kartę na tylnej części urządzenia.</string>
+    <string name="no_nfc">NFC nie jest obsługiwane na tym urządzeniu</string>
+    <string name="clear_all">Wyczyść wszystko</string>
+    <string name="close_app">Zamknij aplikację</string>
+</resources>

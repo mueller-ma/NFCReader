@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translation instructions can be found in the Readme -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, ExtraTranslation">
+    <string name="app_name">Lector NFC</string>
+    <string name="intro_message">Esta es una aplicación simple para leer varias etiquetas (NDEF, RFID, FeliCa, ISO 14443, etc).\n\nLo usas manteniendo una etiqueta/tarjeta en la parte trasera de tu dispositivo.</string>
+    <string name="no_nfc">NFC no es compatible con este dispositivo</string>
+    <string name="clear_all">Limpiar todo</string>
+    <string name="close_app">Cerrar app</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translation instructions can be found in the Readme -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, ExtraTranslation">
+    <string name="app_name">NFC Чтение</string>
+    <string name="intro_message">Это простое приложение для чтения различных тегов (NDEF, RFID, FeliCa, ISO 14443 и т.д.).\n\nВы используете его, удерживая метку/карту на задней панели устройства.</string>
+    <string name="no_nfc">NFC не поддерживается на этом устройстве</string>
+    <string name="clear_all">Очистить все</string>
+    <string name="close_app">Закрыть приложение</string>
+</resources>

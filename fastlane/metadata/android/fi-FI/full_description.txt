@@ -1,0 +1,3 @@
+Tämä on yksinkertainen sovellus lukea eri tunnisteita (NDEF, RFID, FeliCa, ISO 14443 jne.).
+
+Se on forkattu <a href="https://f-droid.org/de/packages/se.anyro.nfc_reader/">se.anyro.nfc_reader</a>.

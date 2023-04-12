@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translation instructions can be found in the Readme -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, ExtraTranslation">
+    <string name="app_name">NFC čtečka</string>
+    <string name="intro_message">Toto je jednoduchá aplikace pro čtení různých štítků (NDEF, RFID, FeliCa, ISO 14443 atd.).\n\nPoužíváte ji podržením štítku/karty na zadní straně vašeho zařízení.</string>
+    <string name="no_nfc">NFC není na tomto zařízení podporováno</string>
+    <string name="clear_all">Vymazat vše</string>
+    <string name="close_app">Zavřít aplikaci</string>
+</resources>
