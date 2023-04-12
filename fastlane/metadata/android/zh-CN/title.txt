@@ -1,1 +1,1 @@
-NFC Reader
+NFC 阅读器
