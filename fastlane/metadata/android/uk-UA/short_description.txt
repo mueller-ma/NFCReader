@@ -1,1 +1,1 @@
-Read NFC tags
+Зчитати NFC мітки
