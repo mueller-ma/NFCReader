@@ -2,7 +2,7 @@
 <!-- Translation instructions can be found in the Readme -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, ExtraTranslation">
     <string name="app_name">Αναγνώστης NFC</string>
-    <string name="intro_message">Αυτή είναι μια απλή εφαρμογή για να διαβάσετε διάφορες ετικέτες (NDEF, RFID, FeliCa, ISO 14443, κλπ.).\n\nΤο χρησιμοποιείτε κρατώντας μια ετικέτα/κάρτα στο πίσω μέρος της συσκευής σας.</string>
+    <string name="intro_message">Αυτή είναι μια απλή εφαρμογή για να διαβάσετε διάφορες ετικέτες (NDEF, RFID, FeliCa, ISO 14443, κλπ.).\n\nΤο χρησιμοποιείτε κρατώντας μια ετικέτα/κάρτα στο πίσω μέρος της συσκευής σας.\n\nΑυτή η εφαρμογή είναι ένα πιρούνι του https://github.com/nadam/nfc-reader</string>
     <string name="no_nfc">Δεν υποστηρίζεται NFC σε αυτήν τη συσκευή</string>
     <string name="clear_all">Εκκαθάριση όλων</string>
     <string name="close_app">Κλείσιμο εφαρμογής</string>

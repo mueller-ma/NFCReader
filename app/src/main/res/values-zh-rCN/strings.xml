@@ -2,7 +2,7 @@
 <!-- Translation instructions can be found in the Readme -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, ExtraTranslation">
     <string name="app_name">NFC 阅读器</string>
-    <string name="intro_message">这是一个阅读各种标签的简单应用程序 (NDEF, RFID, FeliCa, ISO 14443, 等等)。\n\n您使用它的方法是按住tag/card 来对付您的设备背部。</string>
+    <string name="intro_message">这是一个阅读各种标签的简单应用程序 (NDEF, RFID, FeliCa, ISO 14443, 等等)。\n\n您使用它的方法是按住tag/card 来对付您的设备背部。\n\n这个应用程序是 https://github.com/nadam/nfc-reader 的一个fork</string>
     <string name="no_nfc">此设备不支持 NFC</string>
     <string name="clear_all">全部清除</string>
     <string name="close_app">关闭应用</string>

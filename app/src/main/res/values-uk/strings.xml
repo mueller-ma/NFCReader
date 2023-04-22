@@ -2,7 +2,7 @@
 <!-- Translation instructions can be found in the Readme -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, ExtraTranslation">
     <string name="app_name">NFC читач</string>
-    <string name="intro_message">Це простий додаток для читання різних тегів (NDEF, RFID, FeliCa, ISO 14443 тощо).\n\nВи використовуєте його, тримаючи мітку/картку на задній частині пристрою.</string>
+    <string name="intro_message">Це простий додаток для читання різних тегів (NDEF, RFID, FeliCa, ISO 14443 тощо).\n\nВи використовуєте його, тримаючи мітку/картку на задній частині пристрою.\n\nЦе форк з https://github.com/nadam/nfc-reader</string>
     <string name="no_nfc">На цьому пристрої не підтримується NFC</string>
     <string name="clear_all">Очистити все</string>
     <string name="close_app">Закрити додаток</string>
