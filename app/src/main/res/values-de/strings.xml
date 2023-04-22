@@ -2,7 +2,7 @@
 <!-- Translation instructions can be found in the Readme -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, ExtraTranslation">
     <string name="app_name">NFC-Leser</string>
-    <string name="intro_message">This is a simple app to read various tags (NDEF, RFID, FeliCa, ISO 14443, etc).\n\nYou use it by holding a tag/card against the back of your device.\n\nThis app is a fork of https://github.com/nadam/nfc-reader</string>
+    <string name="intro_message">Dies ist eine einfache App, um verschiedene Tags zu lesen (NDEF, RFID, FeliCa, ISO 14443, etc.).\n\nDu verwendest die App, indem du einen Tag/eine Karte an der Rückseite deines Geräts hältst.\n\nDiese App ist ein Fork von https://github.com/nadam/nfc-reader</string>
     <string name="no_nfc">NFC wird auf diesem Gerät nicht unterstützt</string>
     <string name="clear_all">Alles löschen</string>
     <string name="close_app">App schließen</string>
