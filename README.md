@@ -28,7 +28,6 @@ From my point of view this app is feature complete. I probably won't add new maj
 
 App strings and the app store description can be translated via Crowdin: https://crowdin.com/project/nfc-reader
 
-<!-- ## Credits
+## Credits
 
-* Feature graphic by https://unsplash.com/@
--->
+* Feature graphic by https://unsplash.com/de/@vishnumaiea
