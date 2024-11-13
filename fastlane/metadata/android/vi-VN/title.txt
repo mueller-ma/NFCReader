@@ -1,1 +1,1 @@
-NFC Reader
+Trình đọc NFC

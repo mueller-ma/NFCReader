@@ -1,1 +1,1 @@
-Read NFC tags
+Đọc thẻ NFC
